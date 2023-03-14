@@ -1,5 +1,0 @@
-1. Copy xampp-backup to C drive
-2. Open Task Scheduler
-3. Import C:\xampp-backup\XamppDb.xml to tasks
-4. Find the XamppDb in the list. then right click & run. 
-5. Verify a folder creation in C:\xampp-backup\db\ . With the date of the day
